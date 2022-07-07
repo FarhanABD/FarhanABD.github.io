@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-bottom: auto;
+  padding-top: 6rem;
+  background-color: #a3e4db;
+}
+
+kalo Id pake tanda pager #project {
+  background-color: #ffff;
+}
+
+.col p {
+  font-size: medium;
+}
+
+section {
+  padding-top: 5rem;
+}
